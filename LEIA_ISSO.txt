@@ -1,0 +1,4 @@
+Você pode testar o modelo de codificação aqui:
+https://encryptionrle.herokuapp.com/
+
+Esse modelo é linear e randômico, na prática isso significa que existem infinitas codificações para uma mesma palavra.
